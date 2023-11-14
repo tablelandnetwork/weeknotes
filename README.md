@@ -6,7 +6,7 @@ Welcome to the Weeknotes repository for Textile & Tableland! Our weeknotes are a
 
 ## What to Expect
 
-Read the latest here: [https://substack](https://tableland.substack.com/).
+Read the latest here: [Weeknotes Substack](https://tableland.substack.com/).
 
 In our Weeknotes, you'll find:
 
